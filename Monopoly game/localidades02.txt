@@ -1,0 +1,12 @@
+
+Savassi;Roxo;100;6
+Praça Sete;Roxo;100;6
+Av. Afonso Pena;Azul Claro;200;15
+Praça da Liberdade;Azul Claro;200;15
+Rua da Bahia;Azul Claro;240;20
+Mercado Central;Verde;300;26
+Palácio das Artes;Rosa;300;26
+Parque Municipal;Rosa;360;32
+UFMG;Verde;400;35
+Mineirão;Laranja;400;35
+Lagoa da Pampulha;Laranja;450;40

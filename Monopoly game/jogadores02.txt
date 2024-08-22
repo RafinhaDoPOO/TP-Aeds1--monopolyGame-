@@ -1,6 +1,0 @@
-Renata;700;1
-Max;700;2
-Carolina;700;3
-Eduardo;700;4
-Marco Antonio;700;5
-Isabela;700;6
